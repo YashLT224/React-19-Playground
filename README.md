@@ -17,8 +17,8 @@ A modern React application built with React 19, Vite, and Tailwind CSS. This pro
 ## 📸 Screenshots
 
 ### S1: Main Dashboard
-![Main Dashboard](src/assets/screenshots/S1.png)
-*Main dashboard showing various React 19 features and examples*
+![Main Dashboard](./src/assets/S1.png)
+ 
 
 ### S2: Form Examples
 ![Form Examples](src/assets/screenshots/S2.png)
