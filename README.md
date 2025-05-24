@@ -94,10 +94,6 @@ src/
 
 This project uses Tailwind CSS for styling. The configuration can be found in `tailwind.config.js`. You can customize the theme, colors, and other design tokens in this file.
 
-## 👨‍💻 Contributors
-
-- **Yash Verma** - *Initial work* - [GitHub Profile](https://github.com/yashverma)
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
