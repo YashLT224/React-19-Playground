@@ -17,23 +17,23 @@ A modern React application built with React 19, Vite, and Tailwind CSS. This pro
 ## 📸 Screenshots
 
 ### S1: Main Dashboard
-![Main Dashboard](public/screenshots/s1.png)
+![Main Dashboard](src/assets/screenshots/s1.png)
 *Main dashboard showing various React 19 features and examples*
 
 ### S2: Form Examples
-![Form Examples](public/screenshots/s2.png)
+![Form Examples](src/assets/screenshots/s2.png)
 *Form handling examples with useFormStatus and useFormState*
 
 ### S3: Context & Hooks Examples
-![Context & Hooks](public/screenshots/s3.png)
+![Context & Hooks](src/assets/screenshots/s3.png)
 *Examples of Context API and various React hooks in action*
 
 ### S4: Optimistic UI & Transitions
-![Optimistic UI & Transitions](public/screenshots/s4.png)
+![Optimistic UI & Transitions](src/assets/screenshots/s4.png)
 *Demonstration of optimistic updates and smooth transitions*
 
 ### S5: Optimistic UI & Transitions
-![Optimistic UI & Transitions](public/screenshots/s5.png)
+![Optimistic UI & Transitions](src/assets/screenshots/s5.png)
 *Demon
 
 
