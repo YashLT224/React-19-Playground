@@ -21,20 +21,17 @@ A modern React application built with React 19, Vite, and Tailwind CSS. This pro
  
 
 ### S2: Form Examples
-![Form Examples](src/assets/screenshots/S2.png)
-*Form handling examples with useFormStatus and useFormState*
+![Form Examples](./src/assets/S2.png)
 
 ### S3: Context & Hooks Examples
-![Context & Hooks](src/assets/screenshots/S3.png)
-*Examples of Context API and various React hooks in action*
+![Context & Hooks](./src/assets/S3.png)
 
 ### S4: Optimistic UI & Transitions
-![Optimistic UI & Transitions](src/assets/screenshots/S4.png)
-*Demonstration of optimistic updates and smooth transitions*
+![Optimistic UI & Transitions](./src/assets/S4.png)
 
 ### S5: Optimistic UI & Transitions
-![Optimistic UI & Transitions](src/assets/screenshots/S5.png)
-*Demon
+![Optimistic UI & Transitions](./src/assets/S5.png)
+
 
 
 ## 🚀 Getting Started
