@@ -22,8 +22,8 @@ A modern React application built with React 19, Vite, and Tailwind CSS. This pro
 ### S2: Optimistic UI & Transitions
 ![Optimistic UI & Transitions](./src/assets/S4.png)
 
-### S3: Context & Hooks Examples
-![Context & Hooks](./src/assets/S3.png)
+### S3: Form Action Examples
+![Form Action  Examples](./src/assets/S3.png)
 
 
 ### S4: useFormState
