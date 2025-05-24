@@ -106,6 +106,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/react-19-playground/issues).
 
+## 👥 Authors
+
+- Your Name - Yash Verma
+
 ## 🙏 Acknowledgments
 
 - [React](https://react.dev/)
