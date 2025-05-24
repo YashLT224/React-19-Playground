@@ -108,7 +108,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 👥 Authors
 
-- Your Name - Yash Verma
+- Yash Verma
 
 ## 🙏 Acknowledgments
 
