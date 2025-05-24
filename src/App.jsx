@@ -12,6 +12,7 @@ import { ActionExample1 } from './components/actionExample1/Posts';
 import { ActionExample2 } from './components/actionExample2/ShoppingCart';
 import { UseFormStatusExample } from './components/useFormStatus/Posts';
 import AddToCartForm from './components/useFormStateExample/AddToCartForm';
+import { UseOptimisticExample } from './components/useoptimisticExample/Message';
 import './App.css'
 function App() {
  
@@ -44,6 +45,10 @@ function App() {
               />
             </>
           }
+        />
+        <Route
+          path='useoptimistic-example'
+          element={<UseOptimisticExample />}
         />
         </Route>
       

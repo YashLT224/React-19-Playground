@@ -1,6 +1,7 @@
 import { useFormState } from 'react-dom';
 
 const addToCart = (prevState, queryData) => {
+    console.log(queryData)
   const itemID = queryData.get('itemID');
   if (itemID === '1') {
     return 'Added to cart';
